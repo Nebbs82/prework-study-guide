@@ -75,5 +75,20 @@ p {
 
   }  
 
+ .Image-Joke {
+
+    display: block;
+
+    border: solid darkcyan;
+
+    height: 500px;
+
+    width: 500px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+ } 
+
 
   
