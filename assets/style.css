@@ -90,5 +90,14 @@ p {
     margin-right: auto;
  } 
 
+#linkdiv {
+    display: flex;
+    align-content: center;
+  
+
+}
+
+
+ 
 
   
